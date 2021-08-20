@@ -19,7 +19,8 @@ public class Player
 	
 	public void thoughts()
 	{
-		System.out.println("\n\n\n\n\n\n\n\n\n'My god,' you think, 'I'm still so ******* hungover. All I can do is <stumble> around, <examine> important looking objects, or <lie> down and groan in pain'\n"
+		System.out.println("\n\n\n\n\n\n-------------------------------------------------------------------------------------------------------------------------------------------------------------------------"
+				+"\nMy god,' you think, 'I'm still so ******* hungover. All I can do is <stumble> around, <examine> important looking objects, or <lie> down and groan in pain'\n"
 				+ "\n-------------------------------------------------------------------------------------------------------------------------------------------------------------------------");
 	}
 	
