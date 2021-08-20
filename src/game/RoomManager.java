@@ -58,14 +58,15 @@ public class RoomManager
 		
 		//Setting all of the interactions for the rooms.
 		
-		cell.setInteractions("bench", "How did you miss the bench? You had way too much to drink.", "You lie down on the padded bench. You groan in pain at your continuing hangover and get up again after a few minutes.");
-		jail.setInteractions("desk", "The desk is full of drawers stuffed full of old police reports.", "You lie down on the desk. Not only do you have a hangover, but now you've realized that without padding your lower"
-				+ " back has a sharp pain. You swear you'll never drink again, but you know you're lying to yourself. After a few minutes you get up.");
-		office.setInteractions("shells", "Whoever took the guns must have left in a struggle. But where are the holes from the shots fired?", "You lie down on top of the scattered shells. Why would you do that?"
-				+ " I don't think you can blame this one on the hangover. Your hangover is actually slightly better now that you're focusing on your growing back pain. After only a few seconds you push yourself"
-				+ " off of the floor.");
-		lobby.setInteractions("glass", "There must have been some real violence here before to cause all of this.", "You lie down on the piles of broken glass. What happened to your life? After almost a whole hour"
-				+ " you finally drag your own pathetic body off of the glass. Some of the shards are still sticking to your pants.");
+		cell.setInteractions("bench", "How did you miss the bench? You had way too much to drink.", "You lie down on the padded bench. You groan in pain at your continuing hangover and \n"
+				+ "get up again after a few minutes.");
+		jail.setInteractions("desk", "The desk is full of drawers stuffed full of old police reports.", "You lie down on the desk. Not only do you have a hangover, but now you've realized \n"
+				+ "that without padding your lower back has a sharp pain. You swear you'll never drink again, but you know you're lying to yourself. After a few minutes you get up.");
+		office.setInteractions("shells", "Whoever took the guns must have left in a struggle. But where are the holes from the shots fired?", "You lie down on top of the scattered shells. \n"
+				+ "Why would you do that? I don't think you can blame this one on the hangover. Your hangover is actually slightly better now that you're focusing on your growing back pain. \n"
+				+ " After only a few seconds you push yourself off of the floor.");
+		lobby.setInteractions("glass", "There must have been some real violence here before to cause all of this.", "You lie down on the piles of broken glass. What happened to your life? After \n"
+				+ "almost a whole hour you finally drag your own pathetic body off of the glass. Some of the shards are still sticking to your pants.");
 		parking.setInteractions(null, null, null);
 		
 	}
